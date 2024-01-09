@@ -211,6 +211,7 @@
 }
 #best-offer .left-div{
     width: 40%;
+    margin-right: 10px;
 }
 #best-offer .left-div .top-text {
     color: #F00;
@@ -247,6 +248,7 @@ width: 66%;
 padding: 6%;
 border-radius: 463px;
 border: 15px solid #F00;
+
 }
 #best-offer .right-div{
 width: 33%;
