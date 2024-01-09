@@ -209,10 +209,12 @@
     justify-content: center;
 
 }
-#best-offer .left-div{
+
+#best-offer .left-div {
     width: 40%;
     margin-right: 10px;
 }
+
 #best-offer .left-div .top-text {
     color: #F00;
     text-align: left;
@@ -222,50 +224,153 @@
     font-weight: 500;
     line-height: normal;
 }
-#best-offer .left-div .middle-text{
+
+#best-offer .left-div .middle-text {
     color: #070211;
-font-family: Merriweather;
-font-size: 48px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
 }
-#best-offer .left-div .bottom-text{
+
+#best-offer .left-div .bottom-text {
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px; /* 160% */
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
 }
+
 /* #best-offer .middle-div{
     width: 33%;
 } */
- 
-#best-offer .middle-div img{
-width: 66%;
-padding: 6%;
-border-radius: 463px;
-border: 15px solid #F00;
+
+#best-offer .middle-div img {
+    width: 66%;
+    padding: 6%;
+    border-radius: 463px;
+    border: 15px solid #F00;
 
 }
-#best-offer .right-div{
-width: 33%;
+
+#best-offer .right-div {
+    width: 33%;
 }
-#best-offer .right-div h2{
+
+#best-offer .right-div h2 {
     color: #F00;
-font-family: Inter;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
-#best-offer .right-div p{
+
+#best-offer .right-div p {
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px; /* 160% */
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+#holidays-sale .container {
+    text-align: center;
+    display: block;
+}
+
+#holidays-sale .text-div h2 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#holidays-sale .text-div h3 {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+#holidays-sale .text-div h3 span {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+#holidays-sale .text-div p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+}
+
+#holidays-sale .img-div {
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    height: 662px;
+}
+
+#holidays-sale .img-div .left-div {
+    align-self: flex-end;
+}
+
+#holidays-sale .img-div .left-div img {
+    width: 80%;
+}
+
+#holidays-sale .img-div .right-div {
+    background-image: url(../images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+}
+
+
+#best-gifts .container .text h2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#best-gifts .container .text h3 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#best-gifts .container .text p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
 }
