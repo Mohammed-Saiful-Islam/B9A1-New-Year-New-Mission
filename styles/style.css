@@ -18,7 +18,7 @@
 .header-banner {
     background-image: url(../images/Banner\ Image.png);
     background-size: 100%;
-    height: 480px;
+    height: 475px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -48,4 +48,47 @@
     font-weight: 900;
     line-height: 95px;
     /* 131.944% */
+}
+
+.holiday-deals-content {
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.holiday-deals-text h2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.holiday-deals-text p {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 40px;
+}
+
+.holiday-deals-text h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+
+.holiday-deals-img img {
+    width: 60%;
+    max-width: 600px;
 }
