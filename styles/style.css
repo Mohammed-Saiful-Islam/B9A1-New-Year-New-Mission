@@ -374,3 +374,6 @@
     line-height: 32px;
     /* 160% */
 }
+#best-gifts .img-div img{
+    width: 33%;
+}
