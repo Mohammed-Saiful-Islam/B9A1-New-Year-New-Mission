@@ -392,7 +392,6 @@
 #news-letter .container .content {
     text-align: center;
 }
-
 #news-letter .container .content img {
     width: 20%;
     margin-bottom: 30px;
@@ -445,3 +444,38 @@
     line-height: normal;
     text-transform: capitalize;
 }
+footer{
+    background: #070211;
+    height: 400px ;
+    text-align: center;
+}
+footer .container {
+    text-align: center;
+}
+footer .container .content .top{
+    display: flex;
+}
+
+
+footer .container .content .top .left{
+    width: 400px;
+}
+footer .container .content .top .left p{color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 166.667% */}
+    footer .container .content .top .right .telephone p{
+        color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+    }
+    footer .container .content .top .right .top{
+        display: inline-flex;
+
+    }
+
