@@ -100,7 +100,7 @@
     height: 475px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .midnight-party-text {
