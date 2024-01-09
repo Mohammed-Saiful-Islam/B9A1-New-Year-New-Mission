@@ -375,5 +375,6 @@
     /* 160% */
 }
 #best-gifts .img-div img{
-    width: 33%;
+    width: 31.25%;
+    margin: 10px;
 }
